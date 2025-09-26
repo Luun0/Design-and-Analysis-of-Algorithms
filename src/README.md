@@ -89,7 +89,7 @@ The tests cover:
 - large random arrays
 - for Closest Pair: lines, squares, diagonals, duplicates, clusters
 
-✅ All tests passed:Tests run: 40, Failures: 0, Errors: 0, Skipped: 0
+- All tests passed:Tests run: 40, Failures: 0, Errors: 0, Skipped: 0
 BUILD SUCCESS
 ---
 
